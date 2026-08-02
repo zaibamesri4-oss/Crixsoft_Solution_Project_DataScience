@@ -1,0 +1,31 @@
+Project 3: Analyzing and Visualizing Movie Ratings
+
+Overview
+
+This project focuses on analyzing a movie ratings dataset to uncover trends, patterns, and insights through data visualization techniques.
+
+Objectives
+
+- Explore the movie ratings dataset.
+- Analyze rating distributions and trends.
+- Visualize data using charts and graphs.
+- Identify patterns and audience preferences.
+- Present insights through effective visualizations.
+
+Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+Learning Outcomes
+
+- Strengthened data analysis and visualization skills.
+- Learned to interpret movie rating patterns.
+- Improved proficiency in Python and Pandas.
+- Gained hands-on experience with exploratory data analysis.
+
+Acknowledgement
+
+This project was completed as part of my Data Science Internship at CRIXSOFT SOLUTION. It provided valuable practical experience in data analysis and visualization.
