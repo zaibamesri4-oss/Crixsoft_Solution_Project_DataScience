@@ -1,0 +1,55 @@
+Exploratory Data Analysis (EDA) on Iris Dataset
+
+📌 Project Overview
+
+This project focuses on performing Exploratory Data Analysis (EDA) on the publicly available Iris dataset.
+
+The project involves cleaning and exploring the dataset, performing basic statistical analysis, identifying patterns and correlations, and visualizing the data using different charts.
+
+🛠️ Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Scikit-learn
+
+🔍 Project Workflow
+
+1. Load the Iris dataset
+2. Explore the dataset structure
+3. Check for missing values
+4. Perform data cleaning
+5. Calculate basic statistical measures
+6. Analyze correlations between features
+7. Visualize data distributions
+8. Create charts and graphs
+9. Identify important patterns and relationships
+
+📊 Visualizations
+
+The project includes:
+
+- Histograms
+- Correlation heatmap
+- Pair plot
+- Feature distribution analysis
+
+🎯 Learning Outcomes
+
+This project helped me gain practical experience in:
+
+- Data preprocessing
+- Exploratory Data Analysis
+- Statistical analysis
+- Data visualization
+- Finding patterns and correlations in datasets
+
+👩‍💻 Internship Project
+
+Data Science Internship – Project 1
+
+Project Title: Exploratory Data Analysis on a Public Dataset
+
+Dataset: Iris Dataset
