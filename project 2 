@@ -1,0 +1,61 @@
+Simple Linear Regression on Housing Prices
+
+📌 Project Overview
+
+This project focuses on predicting housing prices using Linear Regression. The project includes data preprocessing, feature selection, normalization, model training, prediction, and performance evaluation.
+
+🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+🔍 Project Workflow
+
+1. Load the housing prices dataset
+2. Explore the dataset
+3. Check and handle missing values
+4. Select relevant features
+5. Split the data into training and testing sets
+6. Normalize the features
+7. Build a Linear Regression model
+8. Train the model
+9. Predict housing prices
+10. Evaluate model performance
+
+🤖 Machine Learning Algorithm
+
+Linear Regression
+
+The model predicts house prices based on available housing features such as number of rooms, location-related factors, and other property characteristics.
+
+📊 Model Evaluation
+
+The model performance is evaluated using:
+
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- R² Score
+
+An Actual vs Predicted Prices graph is also used to visualize the model's performance.
+
+🎯 Learning Outcomes
+
+This project helped me gain practical experience in:
+
+- Data preprocessing
+- Feature selection
+- Data normalization
+- Regression algorithms
+- Model training and prediction
+- Performance evaluation
+- Data visualization
+
+👩‍💻 Internship Project
+
+Data Science Internship – Project 2
+
+Project Title: Simple Linear Regression on Housing Prices
