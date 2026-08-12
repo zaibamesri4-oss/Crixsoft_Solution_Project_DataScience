@@ -1,0 +1,36 @@
+Loan Eligibility Prediction – GitHub
+
+This project predicts whether a loan application will be Approved or Not Approved using Machine Learning.
+
+Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+Tasks Completed:
+
+Data preprocessing and cleaning
+
+Missing-value handling
+
+Exploratory Data Analysis
+
+Data visualization
+
+Categorical data encoding
+
+Train-test split
+
+Logistic Regression model
+
+Loan eligibility prediction
+
+Accuracy evaluation
+
+Confusion matrix
+
+Classification report
+
+
+Learning Outcome:
+Gained practical experience in Data Science, Machine Learning, classification, data preprocessing, visualization, and model evaluation.
+
+Internship: Data Science Internship
+Project 3: Loan Eligibility Prediction
